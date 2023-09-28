@@ -134,6 +134,10 @@
     <ClInclude Include="Bridge.h" />
     <ClInclude Include="BridgeImplementation.h" />
     <ClInclude Include="Composite.h" />
+    <ClInclude Include="Decorator.h" />
+    <ClInclude Include="Facade.h" />
+    <ClInclude Include="Flyweight.h" />
+    <ClInclude Include="Proxy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
